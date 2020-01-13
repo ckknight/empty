@@ -1,0 +1,12 @@
+{
+  "name": "empty",
+  "version": "1.0.0",
+  "description": "Empty TS project",
+  "main": "index.js",
+  "module": "index.esm.js",
+  "types": "index.d.ts",
+  "repository": "https://github.com/ckknight/empty",
+  "author": "ckknight",
+  "license": "CC-PDDC",
+  "private": false
+}
