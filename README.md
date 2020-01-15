@@ -1,4 +1,4 @@
-# empty
+# @ckknight/empty
 
 This project is intentionally empty.
 
@@ -9,3 +9,11 @@ When executed at runtime, this provides a CommonJS module with no changes to its
 
 This can be used within the `"resolutions"` of a `package.json` to replace a
 problematic package with an empty one.
+
+```json
+{
+  "resolutions": {
+    "some-package": "@ckknight/empty"
+  }
+}
+```

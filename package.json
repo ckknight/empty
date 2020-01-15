@@ -1,5 +1,5 @@
 {
-  "name": "empty",
+  "name": "@ckknight/empty",
   "version": "1.0.0",
   "description": "Empty TS project",
   "main": "index.js",
